@@ -1,0 +1,38 @@
+[33mcommit fd8086328eb9c891813168134534732107453cfb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Chris Aler <95715792+bobi8888@users.noreply.github.com>
+Date:   Fri Nov 8 15:30:10 2024 -0600
+
+    Create pixel.png
+
+[33mcommit 126dcd587fd47becb63ccf18276dbf1c3617510d[m
+Author: chris <cjaler@gmail.com>
+Date:   Fri Nov 8 15:27:33 2024 -0600
+
+    added read me and license
+
+[33mcommit aba759f8acfcac713d98e1e37bfe9760328e6c22[m
+Merge: 5fdf64a b468cae
+Author: Chris Aler <95715792+bobi8888@users.noreply.github.com>
+Date:   Fri Nov 8 15:12:09 2024 -0600
+
+    Merge pull request #1 from bobi8888/master
+    
+    removed readme
+
+[33mcommit b468caea544b960a4e353464d055892447d6590d[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: chris <cjaler@gmail.com>
+Date:   Fri Nov 8 15:02:31 2024 -0600
+
+    removed readme
+
+[33mcommit 5fdf64a3105c64391806b5979551c5333b57a717[m
+Author: Chris Aler <95715792+bobi8888@users.noreply.github.com>
+Date:   Fri Nov 8 14:48:09 2024 -0600
+
+    Create .gitignore
+
+[33mcommit b3583d1b4125d06a4ac0c7e38e4552199ac31a75[m
+Author: Chris Aler <95715792+bobi8888@users.noreply.github.com>
+Date:   Fri Nov 8 14:47:41 2024 -0600
+
+    Create README.md
